@@ -1,0 +1,111 @@
+[submodule "spider/baidu_photo_spider"]
+	path = spider/baidu_photo_spider
+	url = git@github.com:xiligey/baidu_photo_spider.git
+[submodule "big_data/flink_notes"]
+	path = big_data/flink_notes
+	url = git@github.com:xiligey/flink_notes.git
+[submodule "big_data/pyspark_notes"]
+	path = big_data/pyspark_notes
+	url = git@github.com:xiligey/pyspark_notes.git
+[submodule "big_data/spark_notes"]
+	path = big_data/spark_notes
+	url = git@github.com:xiligey/spark_notes.git
+[submodule "big_data/spark_notes_scala"]
+	path = big_data/spark_notes_scala
+	url = git@github.com:xiligey/spark_notes_scala.git
+[submodule "language/cplus_basic"]
+	path = language/cplus_basic
+	url = git@github.com:xiligey/cplus_basic.git
+[submodule "language/flask_notes"]
+	path = language/flask_notes
+	url = git@github.com:xiligey/flask_notes.git
+[submodule "language/go_basic"]
+	path = language/go_basic
+	url = git@github.com:xiligey/go_basic.git
+[submodule "language/java_basic"]
+	path = language/java_basic
+	url = git@github.com:xiligey/java_basic.git
+[submodule "language/matlab_basic"]
+	path = language/matlab_basic
+	url = git@github.com:xiligey/matlab_basic.git
+[submodule "language/python_basic"]
+	path = language/python_basic
+	url = git@github.com:xiligey/python_basic.git
+[submodule "language/r_basic"]
+	path = language/r_basic
+	url = git@github.com:xiligey/r_basic.git
+[submodule "language/scala_basic"]
+	path = language/scala_basic
+	url = git@github.com:xiligey/scala_basic.git
+[submodule "machine_learning/deeplearning4j_notes"]
+	path = machine_learning/deeplearning4j_notes
+	url = git@github.com:xiligey/deeplearning4j_notes.git
+[submodule "machine_learning/gpyopt_notes"]
+	path = machine_learning/gpyopt_notes
+	url = git@github.com:xiligey/gpyopt_notes.git
+[submodule "machine_learning/keras_notes"]
+	path = machine_learning/keras_notes
+	url = git@github.com:xiligey/keras_notes.git
+[submodule "machine_learning/machine_learning_mastery"]
+	path = machine_learning/machine_learning_mastery
+	url = git@github.com:xiligey/machine_learning_mastery.git
+[submodule "machine_learning/machine_learning_theories"]
+	path = machine_learning/machine_learning_theories
+	url = git@github.com:xiligey/machine_learning_theories.git
+[submodule "machine_learning/ml_data"]
+	path = machine_learning/ml_data
+	url = git@github.com:xiligey/ml_data.git
+[submodule "machine_learning/npml"]
+	path = machine_learning/npml
+	url = git@github.com:xiligey/npml.git
+[submodule "machine_learning/numpy_notes"]
+	path = machine_learning/numpy_notes
+	url = git@github.com:xiligey/numpy_notes.git
+[submodule "machine_learning/pandas_notes"]
+	path = machine_learning/pandas_notes
+	url = git@github.com:xiligey/pandas_notes.git
+[submodule "machine_learning/prophet_notes"]
+	path = machine_learning/prophet_notes
+	url = git@github.com:xiligey/prophet_notes.git
+[submodule "machine_learning/pylf_notes"]
+	path = machine_learning/pylf_notes
+	url = git@github.com:xiligey/pylf_notes.git
+[submodule "machine_learning/pyod_notes"]
+	path = machine_learning/pyod_notes
+	url = git@github.com:xiligey/pyod_notes.git
+[submodule "machine_learning/pytorch_notes"]
+	path = machine_learning/pytorch_notes
+	url = git@github.com:xiligey/pytorch_notes.git
+[submodule "machine_learning/scipy_notes"]
+	path = machine_learning/scipy_notes
+	url = git@github.com:xiligey/scipy_notes.git
+[submodule "machine_learning/sklearn_notes"]
+	path = machine_learning/sklearn_notes
+	url = git@github.com:xiligey/sklearn_notes.git
+[submodule "machine_learning/statsmodels_notes"]
+	path = machine_learning/statsmodels_notes
+	url = git@github.com:xiligey/statsmodels_notes.git
+[submodule "machine_learning/tensorflow_notes"]
+	path = machine_learning/tensorflow_notes
+	url = git@github.com:xiligey/tensorflow_notes.git
+[submodule "spider/blog_publishing_tool"]
+	path = spider/blog_publishing_tool
+	url = git@github.com:xiligey/blog_publishing_tool.git
+[submodule "spider/meizitu_spider"]
+	path = spider/meizitu_spider
+	url = git@github.com:xiligey/meizitu_spider.git
+[submodule "spider/meizi_spider"]
+	path = spider/meizi_spider
+	url = git@github.com:xiligey/meizi_spider.git
+[submodule "spider/stackoverflow_spider"]
+	path = spider/stackoverflow_spider
+	url = git@github.com:xiligey/stackoverflow_spider.git
+[submodule "spider/zhihu_spider"]
+	path = spider/zhihu_spider
+	url = git@github.com:xiligey/zhihu_spider.git
+[submodule "sql/hive_notes"]
+	path = sql/hive_notes
+	url = git@github.com:xiligey/hive_notes.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:xiligey/tools.git
